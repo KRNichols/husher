@@ -1,0 +1,19 @@
+{
+  "name": "husher",
+  "version": "1.0.0",
+  "description": "Binary Composer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRNichols/husher.git"
+  },
+  "author": "Kevin Nichols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRNichols/husher/issues"
+  },
+  "homepage": "https://github.com/KRNichols/husher#readme"
+}
