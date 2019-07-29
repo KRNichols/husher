@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/KRNichols/husher/issues"
   },
-  "homepage": "https://github.com/KRNichols/husher#readme"
+  "homepage": "https://github.com/KRNichols/husher#readme",
+  "dependencies": {
+  }
 }
